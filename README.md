@@ -5,25 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/____subham____" target="blank"><img src="https://img.shields.io/twitter/follow/____subham____?logo=twitter&style=for-the-badge" alt="____subham____" /></a> </p>
 
-- 🔭 I’m currently working on [rn-composable-ui](https://github.com/webobite/rn-composable-ui)
+- 🔭 I’m currently working on [react-ui-builder-with-json-template](https://github.com/webobite/react-ui-builder-with-json-template)
 
-- 🌱 I’m currently learning **.net core framework**
+- 🌱 I’m currently exploring **.net** & **Docker**
 
-- 👯 I’m looking to collaborate on [tour-gallery-Web-app](https://github.com/webobite/tour-gallery-display)
+- 👯 I’m looking to collaborate on [react-ui-builder-with-json-template](https://github.com/webobite/react-ui-builder-with-json-template)
 
-- 🤝 I’m looking for help with [tour-gallery-Web-app](https://github.com/webobite/tour-gallery-display)
-
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [https://singhsubham.medium.com/](https://singhsubham.medium.com/)
-
-- 💬 Ask me about **node, react, react native, typescript**
+- 📝 I regularly write articles on [@webobite_on_hashnode](https://webobite.hashnode.dev/)
 
 - 📫 How to reach me **singhsubham510@gmail.com**
 
-- 📄 Know about my experiences [#](#)
-
-- ⚡ Fun fact **Hello World !!**
+- 📄 Know about my experiences from [@Subham_On_LinkedIn](https://www.linkedin.com/in/subham-singh510/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
