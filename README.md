@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/____subham____" target="blank"><img src="https://img.shields.io/twitter/follow/____subham____?logo=twitter&style=for-the-badge" alt="____subham____" /></a> </p>
 
-- 🔭 I’m currently working on [react-ui-builder-with-json-template](https://github.com/webobite/react-ui-builder-with-json-template)
+- I’m currently working on Project 🔭 [Brain-Data-Dex](https://github.com/webobite/Brain-data-dex)
 
-- 🌱 I’m currently exploring **.net** & **Docker**
+- I’m currently exploring **Generative AI Space** 🌱 
 
-- 👯 I’m looking to collaborate on [react-ui-builder-with-json-template](https://github.com/webobite/react-ui-builder-with-json-template)
+- I’m looking to collaborate on 👯 [Brain-Data-Dex](https://github.com/webobite/Brain-data-dex)
 
-- 📝 I regularly write articles on [@webobite_on_hashnode](https://webobite.hashnode.dev/)
+- 📝 I regularly write on [Hashnode](https://webobite.hashnode.dev/), [Medium](https://singhsubham.medium.com/) and [Substack](https://webobite.substack.com/)
 
 - 📫 Want to reach out to me ? --> mail me at **singhsubham510@gmail.com**
 
-- 📄 Know about my experiences from [@Subham_On_LinkedIn](https://www.linkedin.com/in/subham-singh510/)
+- 📄 Know about my experiences from [LinkedIn](https://www.linkedin.com/in/subham-singh510/)
 
 ### Some GitHub stats
 
